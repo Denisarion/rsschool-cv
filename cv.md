@@ -42,3 +42,26 @@ situations and emerging opportunities, actively learn and perceive new informati
 ```
 
 ---
+
+# Education:
+
+ Unfinished Higher Education, Gomel State Technical   University Pavel Sukhoi, Gomel
+ September 2017 - May 2021
+ 
+ 
+ Development SAPUI5 on SAP Cloud Platform, JETBI
+ January 2022 - March 2022
+
+---
+
+# Hobbies:
+   * Gamedev
+   * Programming
+   * Mathematics
+   * Volleyball
+
+---
+
+# Languages:
+   * Russian - native speaker
+   * English - A2
