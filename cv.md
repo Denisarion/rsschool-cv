@@ -21,3 +21,24 @@ I cope effectively with tight deadlines, multitasking, I quickly respond to cris
 situations and emerging opportunities, actively learn and perceive new information.
 ```
 
+---
+
+# Skills:
+   * HTML & CSS
+   * JavaScript
+   * GitHub
+   * SAPUI5
+   * SAP HANA database
+   * Adobe Illustrator
+
+---
+
+# Code Example:
+
+``` JavaScript
+    function multiply(a, b){
+    return a * b
+    }
+```
+
+---
