@@ -1,6 +1,6 @@
 @media (max-width: 768px) {
     .section {
-      width: 100%;
+        width: 100%;
     }
 }
 
@@ -22,17 +22,16 @@ body {
 }
 
 .header {
-    background-color: rgb(115, 155, 173);
+    background-color: rgb(81, 111, 126);
     height: 80px;
 }
 
 .main {
-    background-color: rgb(233, 69, 69);
+    background-color: rgb(115, 155, 173);
 }
 
 .footer {
-    background-color: rgb(108, 235, 57);
-    height: 200px;
+    background-color: rgb(81, 111, 126);
 }
 
 .container {
@@ -84,4 +83,9 @@ a:visited {
 
 .round {
     border-radius: 200px;
+
+}
+
+.pre {
+    margin-left: -100px;
 }
