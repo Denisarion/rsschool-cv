@@ -30,13 +30,28 @@ body {
     background-color: rgb(115, 155, 173);
 }
 
+.main .container{
+    margin: 10px;
+}
+
 .footer {
     background-color: rgb(81, 111, 126);
 }
 
+.foot-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.foot-item {
+    padding: 0 13%;
+}
+
 .container {
     max-width: 1440px;
-    margin: 0 auto;
+    margin: 10;
 }
 
 .nav-list {
